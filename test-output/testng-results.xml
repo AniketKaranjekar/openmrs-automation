@@ -1,25 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-19T15:49:03 IST" name="Default suite" finished-at="2026-04-19T15:50:41 IST" duration-ms="97387">
+  <suite started-at="2026-04-25T16:33:29 IST" name="Suite" finished-at="2026-04-25T16:37:24 IST" duration-ms="235416">
     <groups>
     </groups>
-    <test started-at="2026-04-19T15:49:03 IST" name="Default test" finished-at="2026-04-19T15:50:41 IST" duration-ms="97387">
-      <class name="tests.CaptureVitalTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CaptureVitalTest@328cf0e1]" started-at="2026-04-19T15:49:04 IST" name="setUp" finished-at="2026-04-19T15:49:12 IST" duration-ms="8956" status="PASS">
+    <test started-at="2026-04-25T16:33:29 IST" name="Test" finished-at="2026-04-25T16:37:24 IST" duration-ms="235416">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@4c398c80]" started-at="2026-04-25T16:33:29 IST" name="setUp" finished-at="2026-04-25T16:33:37 IST" duration-ms="7957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="captureVital()[pri:0, instance:tests.CaptureVitalTest@328cf0e1]" started-at="2026-04-19T15:49:12 IST" name="captureVital" finished-at="2026-04-19T15:50:41 IST" duration-ms="88380" status="PASS">
+        <test-method signature="verifyLogin()[pri:0, instance:tests.LoginTest@4c398c80]" started-at="2026-04-25T16:33:37 IST" name="verifyLogin" finished-at="2026-04-25T16:33:42 IST" duration-ms="5241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@4c398c80]" started-at="2026-04-25T16:33:42 IST" name="tearDown" finished-at="2026-04-25T16:33:42 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.CreateProviderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CreateProviderTest@2bb7bd00]" started-at="2026-04-25T16:37:06 IST" name="setUp" finished-at="2026-04-25T16:37:13 IST" duration-ms="6675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createProvider()[pri:0, instance:tests.CreateProviderTest@2bb7bd00]" started-at="2026-04-25T16:37:13 IST" name="createProvider" finished-at="2026-04-25T16:37:24 IST" duration-ms="10992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProvider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CreateProviderTest@2bb7bd00]" started-at="2026-04-25T16:37:24 IST" name="tearDown" finished-at="2026-04-25T16:37:24 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CreateProviderTest -->
+      <class name="tests.SearchPatientTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchPatientTest@58359ebd]" started-at="2026-04-25T16:34:19 IST" name="setUp" finished-at="2026-04-25T16:34:26 IST" duration-ms="7517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchPatient()[pri:0, instance:tests.SearchPatientTest@58359ebd]" started-at="2026-04-25T16:34:26 IST" name="searchPatient" finished-at="2026-04-25T16:34:46 IST" duration-ms="19762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchPatientTest@58359ebd]" started-at="2026-04-25T16:34:46 IST" name="tearDown" finished-at="2026-04-25T16:34:46 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchPatientTest -->
+      <class name="tests.RegisterPatientTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.RegisterPatientTest@10993713]" started-at="2026-04-25T16:33:42 IST" name="setUp" finished-at="2026-04-25T16:33:53 IST" duration-ms="10812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerPatient()[pri:0, instance:tests.RegisterPatientTest@10993713]" started-at="2026-04-25T16:33:53 IST" name="registerPatient" finished-at="2026-04-25T16:34:18 IST" duration-ms="25119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegisterPatientTest@10993713]" started-at="2026-04-25T16:34:18 IST" name="tearDown" finished-at="2026-04-25T16:34:19 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.RegisterPatientTest -->
+      <class name="tests.CaptureVitalTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CaptureVitalTest@72cf2de5]" started-at="2026-04-25T16:36:11 IST" name="setUp" finished-at="2026-04-25T16:36:15 IST" duration-ms="3907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="captureVital()[pri:0, instance:tests.CaptureVitalTest@72cf2de5]" started-at="2026-04-25T16:36:15 IST" name="captureVital" finished-at="2026-04-25T16:37:06 IST" duration-ms="51461" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureVital -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CaptureVitalTest@328cf0e1]" started-at="2026-04-19T15:50:41 IST" name="tearDown" finished-at="2026-04-19T15:50:41 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CaptureVitalTest@72cf2de5]" started-at="2026-04-25T16:37:06 IST" name="tearDown" finished-at="2026-04-25T16:37:06 IST" duration-ms="209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.CaptureVitalTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="tests.VisitNoteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.VisitNoteTest@24b6b8f6]" started-at="2026-04-25T16:34:46 IST" name="setUp" finished-at="2026-04-25T16:34:54 IST" duration-ms="7964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddVisitNote()[pri:0, instance:tests.VisitNoteTest@24b6b8f6]" started-at="2026-04-25T16:34:54 IST" name="AddVisitNote" finished-at="2026-04-25T16:36:11 IST" duration-ms="76522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVisitNote -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.VisitNoteTest@24b6b8f6]" started-at="2026-04-25T16:36:11 IST" name="tearDown" finished-at="2026-04-25T16:36:11 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.VisitNoteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

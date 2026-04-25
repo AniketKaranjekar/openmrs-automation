@@ -5,9 +5,14 @@
 <listener class-name="utils.ExtentReportManager"/>
 </listeners>
 
-  <test thread-count="5" name="Test">
+  <test thread-count="1" name="Openmrs">
   <classes>
   <class name="tests.LoginTest"></class>
+  <class name="tests.RegisterPatientTest"></class>
+  <class name="tests.SearchPatientTest"></class>
+  <class name="tests.VisitNoteTest"></class>
+  <class name="tests.CaptureVitalTest"></class>
+  <class name="tests.CreateProviderTest"></class>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

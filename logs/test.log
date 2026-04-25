@@ -4226,3 +4226,332 @@
 2026-04-19 15:50:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35c12c7a: 13 ms
 2026-04-19 15:50:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e5cbff2: 19 ms
 2026-04-19 15:50:41 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51c959a4: 0 ms
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\AppData\Local\Temp\testng-eclipse--1350892924\testng-customsuite.xml
+
+2026-04-25 16:25:44 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-04-25 16:25:53 INFO  tests.LoginTest - Starting login test
+2026-04-25 16:25:58 INFO  tests.LoginTest - Login test passed
+2026-04-25 16:25:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@25c53f74: 69 ms
+2026-04-25 16:25:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6f38a289: 1 ms
+2026-04-25 16:25:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@67c119b7: 6 ms
+2026-04-25 16:25:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@681adc8f: 4 ms
+2026-04-25 16:25:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65f58c6e: 7 ms
+2026-04-25 16:25:58 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ad7e90: 0 ms
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\AppData\Local\Temp\testng-eclipse-379905198\testng-customsuite.xml
+
+2026-04-25 16:26:06 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-25 16:26:13 INFO  tests.RegisterPatientTest - Starting login
+2026-04-25 16:26:13 INFO  tests.RegisterPatientTest - Login completed
+2026-04-25 16:26:13 INFO  tests.RegisterPatientTest - Clicking  register button
+2026-04-25 16:26:23 INFO  tests.RegisterPatientTest - Starting register patient
+2026-04-25 16:26:25 INFO  tests.RegisterPatientTest - Validating patient creation
+2026-04-25 16:26:33 INFO  tests.RegisterPatientTest - Regiter test passed
+2026-04-25 16:26:34 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2f98635e: 68 ms
+2026-04-25 16:26:34 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@112d1c8e: 1 ms
+2026-04-25 16:26:34 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7afb1741: 9 ms
+2026-04-25 16:26:34 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@756b58a7: 6 ms
+2026-04-25 16:26:34 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7d5508e0: 9 ms
+2026-04-25 16:26:34 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@554cd74a: 0 ms
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\AppData\Local\Temp\testng-eclipse-1140599746\testng-customsuite.xml
+
+2026-04-25 16:26:41 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-04-25 16:26:54 INFO  tests.SearchPatientTest - Starting login
+2026-04-25 16:26:59 INFO  tests.SearchPatientTest - Login completed
+2026-04-25 16:27:03 INFO  tests.SearchPatientTest - Navigated to search page
+2026-04-25 16:27:03 INFO  tests.SearchPatientTest - Searching patient: 100HTR
+2026-04-25 16:27:20 INFO  tests.SearchPatientTest - Patient selected successfully
+2026-04-25 16:27:20 INFO  tests.SearchPatientTest - Test passed
+2026-04-25 16:27:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@455824ad: 54 ms
+2026-04-25 16:27:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bafe935: 1 ms
+2026-04-25 16:27:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7123be6c: 7 ms
+2026-04-25 16:27:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@280d9edc: 6 ms
+2026-04-25 16:27:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@730e5763: 5 ms
+2026-04-25 16:27:21 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7275c74b: 0 ms
+2026-04-25 16:27:31 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\AppData\Local\Temp\testng-eclipse--523561840\testng-customsuite.xml
+
+2026-04-25 16:27:32 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-25 16:27:42 INFO  tests.CreateProviderTest - Starting login
+2026-04-25 16:27:45 INFO  tests.CreateProviderTest - Login completed
+2026-04-25 16:27:45 INFO  tests.CreateProviderTest - Clicking on System Administration
+2026-04-25 16:27:47 INFO  tests.CreateProviderTest - Clicking on Manage Account
+2026-04-25 16:27:49 INFO  tests.CreateProviderTest - Starting provider creation
+2026-04-25 16:27:54 INFO  tests.CreateProviderTest - Provider creation passed
+2026-04-25 16:27:55 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6c806c8b: 57 ms
+2026-04-25 16:27:55 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5833f5cd: 1 ms
+2026-04-25 16:27:55 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@763cf5b9: 7 ms
+2026-04-25 16:27:55 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1d0a61c8: 5 ms
+2026-04-25 16:27:55 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@35e8316e: 8 ms
+2026-04-25 16:27:55 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@26d96e5: 0 ms
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\AppData\Local\Temp\testng-eclipse-1671692790\testng-customsuite.xml
+
+2026-04-25 16:28:04 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2026-04-25 16:28:13 INFO  tests.CaptureVitalTest - TEST START: Capture Vitals
+2026-04-25 16:28:13 INFO  tests.CaptureVitalTest - Logging into application
+2026-04-25 16:28:14 INFO  tests.CaptureVitalTest - Navigating to Search Patient
+2026-04-25 16:28:21 INFO  tests.CaptureVitalTest - Opening patient: 100HTR
+2026-04-25 16:28:31 INFO  tests.CaptureVitalTest - Starting new visit
+2026-04-25 16:28:31 INFO  tests.CaptureVitalTest - Opening Capture Vitals
+2026-04-25 16:28:45 INFO  tests.CaptureVitalTest - Validating vitals saved
+2026-04-25 16:28:50 INFO  tests.CaptureVitalTest - Ending visit
+2026-04-25 16:29:22 INFO  tests.CaptureVitalTest - TEST PASSED: Vitals captured successfully
+2026-04-25 16:29:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5e65afb6: 54 ms
+2026-04-25 16:29:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2af69643: 1 ms
+2026-04-25 16:29:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@35c12c7a: 5 ms
+2026-04-25 16:29:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@e5cbff2: 5 ms
+2026-04-25 16:29:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@43045f9f: 8 ms
+2026-04-25 16:29:23 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2643d762: 0 ms
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\AppData\Local\Temp\testng-eclipse--917328531\testng-customsuite.xml
+
+2026-04-25 16:29:53 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-04-25 16:30:04 INFO  tests.VisitNoteTest - TEST START: Add Visit Note
+2026-04-25 16:30:04 INFO  tests.VisitNoteTest - Logging into application
+2026-04-25 16:30:07 INFO  tests.VisitNoteTest - Navigating to Search Patient page
+2026-04-25 16:30:12 INFO  tests.VisitNoteTest - Searching patient with ID: 100HTR
+2026-04-25 16:30:22 INFO  tests.VisitNoteTest - Validating patient detail page loaded
+2026-04-25 16:30:22 INFO  tests.VisitNoteTest - Starting visit
+2026-04-25 16:30:23 INFO  tests.VisitNoteTest - Waiting for Visit page to load
+2026-04-25 16:30:34 INFO  tests.VisitNoteTest - Adding primary diagnosis: Bleeding
+2026-04-25 16:30:36 INFO  tests.VisitNoteTest - Adding secondary diagnosis
+2026-04-25 16:30:38 INFO  tests.VisitNoteTest - Adding clinical notes
+2026-04-25 16:30:38 INFO  tests.VisitNoteTest - Saving visit note
+2026-04-25 16:30:38 INFO  tests.VisitNoteTest - Validating visit note saved successfully
+2026-04-25 16:30:38 INFO  tests.VisitNoteTest - Ending visit
+2026-04-25 16:31:14 INFO  tests.VisitNoteTest - TEST PASSED: Visit Note Added Successfully
+2026-04-25 16:31:14 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7fd26ad8: 54 ms
+2026-04-25 16:31:14 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7eae3764: 1 ms
+2026-04-25 16:31:14 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@56afdf9a: 7 ms
+2026-04-25 16:31:14 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a237731: 5 ms
+2026-04-25 16:31:14 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3dd4a6fa: 12 ms
+2026-04-25 16:31:14 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@19f7222e: 0 ms
+2026-04-25 16:33:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\Desktop\MY_Workspace\openmrs-automation\testng.xml
+
+2026-04-25 16:33:37 INFO  tests.LoginTest - Starting login test
+2026-04-25 16:33:42 INFO  tests.LoginTest - Login test passed
+2026-04-25 16:33:53 INFO  tests.RegisterPatientTest - Starting login
+2026-04-25 16:33:58 INFO  tests.RegisterPatientTest - Login completed
+2026-04-25 16:33:58 INFO  tests.RegisterPatientTest - Clicking  register button
+2026-04-25 16:34:07 INFO  tests.RegisterPatientTest - Starting register patient
+2026-04-25 16:34:09 INFO  tests.RegisterPatientTest - Validating patient creation
+2026-04-25 16:34:18 INFO  tests.RegisterPatientTest - Regiter test passed
+2026-04-25 16:34:26 INFO  tests.SearchPatientTest - Starting login
+2026-04-25 16:34:31 INFO  tests.SearchPatientTest - Login completed
+2026-04-25 16:34:35 INFO  tests.SearchPatientTest - Navigated to search page
+2026-04-25 16:34:35 INFO  tests.SearchPatientTest - Searching patient: 100HTR
+2026-04-25 16:34:46 INFO  tests.SearchPatientTest - Patient selected successfully
+2026-04-25 16:34:46 INFO  tests.SearchPatientTest - Test passed
+2026-04-25 16:34:54 INFO  tests.VisitNoteTest - TEST START: Add Visit Note
+2026-04-25 16:34:54 INFO  tests.VisitNoteTest - Logging into application
+2026-04-25 16:34:55 INFO  tests.VisitNoteTest - Navigating to Search Patient page
+2026-04-25 16:35:03 INFO  tests.VisitNoteTest - Searching patient with ID: 100HTR
+2026-04-25 16:35:21 INFO  tests.VisitNoteTest - Validating patient detail page loaded
+2026-04-25 16:35:21 INFO  tests.VisitNoteTest - Starting visit
+2026-04-25 16:35:21 INFO  tests.VisitNoteTest - Waiting for Visit page to load
+2026-04-25 16:35:31 INFO  tests.VisitNoteTest - Adding primary diagnosis: Bleeding
+2026-04-25 16:35:33 INFO  tests.VisitNoteTest - Adding secondary diagnosis
+2026-04-25 16:35:35 INFO  tests.VisitNoteTest - Adding clinical notes
+2026-04-25 16:35:35 INFO  tests.VisitNoteTest - Saving visit note
+2026-04-25 16:35:35 INFO  tests.VisitNoteTest - Validating visit note saved successfully
+2026-04-25 16:35:35 INFO  tests.VisitNoteTest - Ending visit
+2026-04-25 16:36:11 INFO  tests.VisitNoteTest - TEST PASSED: Visit Note Added Successfully
+2026-04-25 16:36:15 INFO  tests.CaptureVitalTest - TEST START: Capture Vitals
+2026-04-25 16:36:15 INFO  tests.CaptureVitalTest - Logging into application
+2026-04-25 16:36:15 INFO  tests.CaptureVitalTest - Navigating to Search Patient
+2026-04-25 16:36:19 INFO  tests.CaptureVitalTest - Opening patient: 100HTR
+2026-04-25 16:36:24 INFO  tests.CaptureVitalTest - Starting new visit
+2026-04-25 16:36:24 INFO  tests.CaptureVitalTest - Opening Capture Vitals
+2026-04-25 16:36:31 INFO  tests.CaptureVitalTest - Validating vitals saved
+2026-04-25 16:36:34 INFO  tests.CaptureVitalTest - Ending visit
+2026-04-25 16:37:06 INFO  tests.CaptureVitalTest - TEST PASSED: Vitals captured successfully
+2026-04-25 16:37:13 INFO  tests.CreateProviderTest - Starting login
+2026-04-25 16:37:13 INFO  tests.CreateProviderTest - Login completed
+2026-04-25 16:37:13 INFO  tests.CreateProviderTest - Clicking on System Administration
+2026-04-25 16:37:18 INFO  tests.CreateProviderTest - Clicking on Manage Account
+2026-04-25 16:37:20 INFO  tests.CreateProviderTest - Starting provider creation
+2026-04-25 16:37:24 INFO  tests.CreateProviderTest - Provider creation passed
