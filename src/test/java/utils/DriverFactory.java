@@ -16,6 +16,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.AfterMethod;
 
 public class DriverFactory 
@@ -25,7 +27,8 @@ public class DriverFactory
     public Properties p;
     
     @BeforeMethod
-    public void setUp() throws IOException
+    @Parameters({ "browser" })
+    public void setUp(@Optional("chrome") String browser)throws IOException
     {    	
         logger=LogManager.getLogger(this.getClass());
         
