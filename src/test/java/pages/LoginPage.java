@@ -17,7 +17,6 @@ public class LoginPage extends BasePage {
     @FindBy(id = "password")
     WebElement fieldPassword;
 
-    // OpenMRS uses clickable location elements, not input fields
     @FindBy(id = "Inpatient Ward")
     WebElement inpatientWard;
 

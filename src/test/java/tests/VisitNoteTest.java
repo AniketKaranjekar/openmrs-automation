@@ -18,9 +18,9 @@ public class VisitNoteTest extends DriverFactory
     {
         logger.info("TEST START: Add Visit Note");
 
-        LoginPage lp = new LoginPage(driver);
         logger.info("Logging into application");
-        lp.login(p.getProperty("username"),p.getProperty("password"),p.getProperty("location"));
+        LoginPage loginPage = new LoginPage(driver);
+        loginPage.login( p.getProperty("username"), p.getProperty("password"));
 
         HomePage hp = new HomePage(driver);
         logger.info("Navigating to Search Patient page");

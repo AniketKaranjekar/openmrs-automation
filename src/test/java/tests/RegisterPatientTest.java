@@ -15,11 +15,8 @@ public class RegisterPatientTest extends DriverFactory
 	{
 		 logger.info("Starting login");
 			
-		LoginPage lp=new LoginPage(driver);
-		lp.setUsername(p.getProperty("username"));
-		lp.setPassword(p.getProperty("password"));
-		lp.clickLocation(p.getProperty("location"));
-		lp.clickLogin();
+	        LoginPage loginPage = new LoginPage(driver);
+	        loginPage.login( p.getProperty("username"), p.getProperty("password"));
 		
 		logger.info("Login completed");
 
