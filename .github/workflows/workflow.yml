@@ -1,7 +1,4 @@
-name: openmrs Automation Tests
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+name: OpenMRS Automation Tests
 
 on:
   push:
@@ -15,30 +12,34 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
-      - name: Set up JDK 21
-        uses: actions/setup-java@v5
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
         with:
-          java-version: '21'
+          java-version: '17'
           distribution: 'temurin'
           cache: maven
 
       - name: Install Chrome
         uses: browser-actions/setup-chrome@v2
 
+      - name: Setup ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+
       - name: Verify Setup
         run: |
           java -version
           mvn -version
           google-chrome --version
+          chromedriver --version
 
       - name: Run Tests
-        run: mvn clean test -DsuiteXmlFile=testng.xml -Dbrowser=chrome -Dheadless=true
+        run: mvn clean test
 
-      - name: Upload Reports
+      - name: Upload Test Reports
         if: always()
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v4
         with:
-          name: TestNG-Reports
+          name: testng-reports
           path: target/surefire-reports
