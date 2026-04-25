@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-25T17:58:07 IST" name="Default suite" finished-at="2026-04-25T17:58:24 IST" duration-ms="16783">
+  <suite started-at="2026-04-25T18:18:28 IST" name="Suite" finished-at="2026-04-25T18:22:49 IST" duration-ms="260962">
     <groups>
     </groups>
-    <test started-at="2026-04-25T17:58:07 IST" name="Default test" finished-at="2026-04-25T17:58:24 IST" duration-ms="16783">
+    <test started-at="2026-04-25T18:18:28 IST" name="Openmrs" finished-at="2026-04-25T18:22:49 IST" duration-ms="260962">
       <class name="tests.LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.LoginTest@1d7f7be7]" started-at="2026-04-25T17:58:07 IST" name="setUp" finished-at="2026-04-25T17:58:19 IST" duration-ms="11723" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.LoginTest@2756c0a7]" started-at="2026-04-25T18:18:28 IST" name="setUp" finished-at="2026-04-25T18:18:36 IST" duration-ms="8372" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,120 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLogin()[pri:0, instance:tests.LoginTest@1d7f7be7]" started-at="2026-04-25T17:58:19 IST" name="verifyLogin" finished-at="2026-04-25T17:58:24 IST" duration-ms="4838" status="PASS">
+        <test-method signature="verifyLogin()[pri:0, instance:tests.LoginTest@2756c0a7]" started-at="2026-04-25T18:18:36 IST" name="verifyLogin" finished-at="2026-04-25T18:18:42 IST" duration-ms="5867" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@1d7f7be7]" started-at="2026-04-25T17:58:24 IST" name="tearDown" finished-at="2026-04-25T17:58:24 IST" duration-ms="172" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@2756c0a7]" started-at="2026-04-25T18:18:42 IST" name="tearDown" finished-at="2026-04-25T18:18:42 IST" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="tests.CreateProviderTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.CreateProviderTest@162be91c]" started-at="2026-04-25T18:22:29 IST" name="setUp" finished-at="2026-04-25T18:22:37 IST" duration-ms="8012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createProvider()[pri:0, instance:tests.CreateProviderTest@162be91c]" started-at="2026-04-25T18:22:37 IST" name="createProvider" finished-at="2026-04-25T18:22:49 IST" duration-ms="11745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProvider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CreateProviderTest@162be91c]" started-at="2026-04-25T18:22:49 IST" name="tearDown" finished-at="2026-04-25T18:22:49 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CreateProviderTest -->
+      <class name="tests.SearchPatientTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.SearchPatientTest@4c6daf0]" started-at="2026-04-25T18:19:22 IST" name="setUp" finished-at="2026-04-25T18:19:28 IST" duration-ms="6217" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchPatient()[pri:0, instance:tests.SearchPatientTest@4c6daf0]" started-at="2026-04-25T18:19:28 IST" name="searchPatient" finished-at="2026-04-25T18:19:47 IST" duration-ms="18875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchPatientTest@4c6daf0]" started-at="2026-04-25T18:19:47 IST" name="tearDown" finished-at="2026-04-25T18:19:47 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchPatientTest -->
+      <class name="tests.RegisterPatientTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.RegisterPatientTest@768ccdc5]" started-at="2026-04-25T18:18:42 IST" name="setUp" finished-at="2026-04-25T18:18:52 IST" duration-ms="9323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerPatient()[pri:0, instance:tests.RegisterPatientTest@768ccdc5]" started-at="2026-04-25T18:18:52 IST" name="registerPatient" finished-at="2026-04-25T18:19:22 IST" duration-ms="30117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegisterPatientTest@768ccdc5]" started-at="2026-04-25T18:19:22 IST" name="tearDown" finished-at="2026-04-25T18:19:22 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.RegisterPatientTest -->
+      <class name="tests.CaptureVitalTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.CaptureVitalTest@659eef7]" started-at="2026-04-25T18:21:09 IST" name="setUp" finished-at="2026-04-25T18:21:17 IST" duration-ms="8577" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="captureVital()[pri:0, instance:tests.CaptureVitalTest@659eef7]" started-at="2026-04-25T18:21:17 IST" name="captureVital" finished-at="2026-04-25T18:22:29 IST" duration-ms="71051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureVital -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CaptureVitalTest@659eef7]" started-at="2026-04-25T18:22:29 IST" name="tearDown" finished-at="2026-04-25T18:22:29 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CaptureVitalTest -->
+      <class name="tests.VisitNoteTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:tests.VisitNoteTest@10650953]" started-at="2026-04-25T18:19:47 IST" name="setUp" finished-at="2026-04-25T18:19:56 IST" duration-ms="8622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddVisitNote()[pri:0, instance:tests.VisitNoteTest@10650953]" started-at="2026-04-25T18:19:56 IST" name="AddVisitNote" finished-at="2026-04-25T18:21:09 IST" duration-ms="72822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVisitNote -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.VisitNoteTest@10650953]" started-at="2026-04-25T18:21:09 IST" name="tearDown" finished-at="2026-04-25T18:21:09 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.VisitNoteTest -->
+    </test> <!-- Openmrs -->
+  </suite> <!-- Suite -->
 </testng-results>
