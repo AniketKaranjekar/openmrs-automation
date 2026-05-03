@@ -5148,3 +5148,49 @@
 2026-04-25 18:22:43 INFO  tests.CreateProviderTest - Clicking on Manage Account
 2026-04-25 18:22:44 INFO  tests.CreateProviderTest - Starting provider creation
 2026-04-25 18:22:49 INFO  tests.CreateProviderTest - Provider creation passed
+2026-05-03 15:37:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LNV-106\Desktop\MY_Workspace\openmrs-automation\testng.xml
+
+2026-05-03 15:38:04 INFO  tests.LoginTest - Starting login test
+2026-05-03 15:38:09 INFO  tests.LoginTest - Login test passed
+2026-05-03 15:38:19 INFO  tests.RegisterPatientTest - Starting login
+2026-05-03 15:38:23 INFO  tests.RegisterPatientTest - Login completed
+2026-05-03 15:38:23 INFO  tests.RegisterPatientTest - Clicking  register button
+2026-05-03 15:38:38 INFO  tests.RegisterPatientTest - Starting register patient
+2026-05-03 15:38:40 INFO  tests.RegisterPatientTest - Validating patient creation
+2026-05-03 15:38:51 INFO  tests.RegisterPatientTest - Regiter test passed
+2026-05-03 15:39:01 INFO  tests.SearchPatientTest - Starting login
+2026-05-03 15:39:01 INFO  tests.SearchPatientTest - Login completed
+2026-05-03 15:39:10 INFO  tests.SearchPatientTest - Navigated to search page
+2026-05-03 15:39:10 INFO  tests.SearchPatientTest - Searching patient: 100HTR
+2026-05-03 15:39:21 INFO  tests.SearchPatientTest - Patient selected successfully
+2026-05-03 15:39:21 INFO  tests.SearchPatientTest - Test passed
+2026-05-03 15:39:32 INFO  tests.VisitNoteTest - TEST START: Add Visit Note
+2026-05-03 15:39:32 INFO  tests.VisitNoteTest - Logging into application
+2026-05-03 15:39:32 INFO  tests.VisitNoteTest - Navigating to Search Patient page
+2026-05-03 15:39:37 INFO  tests.VisitNoteTest - Searching patient with ID: 100HTR
+2026-05-03 15:39:56 INFO  tests.VisitNoteTest - Validating patient detail page loaded
+2026-05-03 15:39:56 INFO  tests.VisitNoteTest - Starting visit
+2026-05-03 15:39:56 INFO  tests.VisitNoteTest - Waiting for Visit page to load
+2026-05-03 15:40:08 INFO  tests.VisitNoteTest - Adding primary diagnosis: Bleeding
+2026-05-03 15:40:10 INFO  tests.VisitNoteTest - Adding secondary diagnosis
+2026-05-03 15:40:11 INFO  tests.VisitNoteTest - Adding clinical notes
+2026-05-03 15:40:11 INFO  tests.VisitNoteTest - Saving visit note
+2026-05-03 15:40:11 INFO  tests.VisitNoteTest - Validating visit note saved successfully
+2026-05-03 15:40:11 INFO  tests.VisitNoteTest - Ending visit
+2026-05-03 15:40:46 INFO  tests.VisitNoteTest - TEST PASSED: Visit Note Added Successfully
+2026-05-03 15:40:56 INFO  tests.CaptureVitalTest - TEST START: Capture Vitals
+2026-05-03 15:40:56 INFO  tests.CaptureVitalTest - Logging into application
+2026-05-03 15:41:01 INFO  tests.CaptureVitalTest - Navigating to Search Patient
+2026-05-03 15:41:07 INFO  tests.CaptureVitalTest - Opening patient: 100HTR
+2026-05-03 15:41:18 INFO  tests.CaptureVitalTest - Starting new visit
+2026-05-03 15:41:18 INFO  tests.CaptureVitalTest - Opening Capture Vitals
+2026-05-03 15:41:30 INFO  tests.CaptureVitalTest - Validating vitals saved
+2026-05-03 15:41:33 INFO  tests.CaptureVitalTest - Ending visit
+2026-05-03 15:42:05 INFO  tests.CaptureVitalTest - TEST PASSED: Vitals captured successfully
+2026-05-03 15:42:15 INFO  tests.CreateProviderTest - Starting login
+2026-05-03 15:42:15 INFO  tests.CreateProviderTest - Login completed
+2026-05-03 15:42:15 INFO  tests.CreateProviderTest - Clicking on System Administration
+2026-05-03 15:42:22 INFO  tests.CreateProviderTest - Clicking on Manage Account
+2026-05-03 15:42:24 INFO  tests.CreateProviderTest - Starting provider creation
+2026-05-03 15:42:29 INFO  tests.CreateProviderTest - Provider creation passed
